@@ -5,7 +5,6 @@ Welcome to my **100 Days of Data Structures and Algorithms (DSA) Challenge in C+
 This repository contains **daily progress screenshots** of the problems I solve using **C++**. My goal is to improve problem-solving skills and prepare for coding interviews.  
 
 ## 📅 Challenge Overview  
-- **👨‍💻 Start Date:** [MM/DD/YYYY]  
 - **🎯 Goal:** Solve at least one problem per day for 100 days  
 - **📷 Progress Updates:** Daily screenshots of problems solved  
 
