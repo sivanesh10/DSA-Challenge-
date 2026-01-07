@@ -16,9 +16,7 @@ public:
         int curr;
         int step1 = 0, step2 = 0;
         for (int idx=2;idx<=n;idx++) {
-            step1 = cost[idx-1] + prev;
-            step2 = cost[idx-2] + prev2;
-            curr = min(step1,step2);
+            curr = min(cost[idx-1] + prev, cost[idx-2] + prev2);
             prev2 = prev;
             prev = curr;
         }
