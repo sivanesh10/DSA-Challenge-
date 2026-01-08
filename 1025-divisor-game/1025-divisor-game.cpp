@@ -17,6 +17,8 @@ public:
         //by math (Game Theory)....
         // return n%2 == 0;
 
+
+        //DP
         vector<int> dp(n+1,-1);
         return rec(n,dp);
     }
