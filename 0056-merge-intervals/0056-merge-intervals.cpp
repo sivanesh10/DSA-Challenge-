@@ -9,9 +9,7 @@ private:
                 continue;
             }
             else {
-                if(arr[i][0] <= ans.back()[1]) {
                     ans.back()[1] = max(ans.back()[1],arr[i][1]);
-                }
             }
         }
         return ans;
