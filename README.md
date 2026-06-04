@@ -44,13 +44,20 @@ Each day’s progress is stored as images:
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
