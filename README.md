@@ -37,4 +37,20 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
+## Depth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
