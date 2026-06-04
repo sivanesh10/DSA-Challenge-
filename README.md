@@ -29,6 +29,7 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Each day’s progress is stored as images:
 | ------- |
 | [0684-redundant-connection](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
