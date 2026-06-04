@@ -64,6 +64,7 @@ Each day’s progress is stored as images:
 | [0310-minimum-height-trees](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0797-all-paths-from-source-to-target) |
+| [1791-find-center-of-star-graph](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
