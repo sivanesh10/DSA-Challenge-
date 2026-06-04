@@ -29,6 +29,7 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0118-pascals-triangle) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -92,4 +93,8 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
