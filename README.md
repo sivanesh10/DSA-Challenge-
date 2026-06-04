@@ -29,6 +29,7 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
@@ -75,4 +77,8 @@ Each day’s progress is stored as images:
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0310-minimum-height-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
