@@ -34,6 +34,7 @@ Each day’s progress is stored as images:
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -87,6 +88,7 @@ Each day’s progress is stored as images:
 | ------- |
 | [0053-maximum-subarray](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Binary Search
 |  |
