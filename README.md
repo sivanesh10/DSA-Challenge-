@@ -32,6 +32,7 @@ Each day’s progress is stored as images:
 | [0031-next-permutation](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0118-pascals-triangle) |
@@ -109,6 +110,7 @@ Each day’s progress is stored as images:
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
 ## Math
 |  |
