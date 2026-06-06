@@ -15,8 +15,7 @@ public:
         prevEnd = temp.back()[1];
 
         if(start <= prevEnd) {
-            temp.pop_back();
-            temp.push_back({prevStart,max(prevEnd,end)});
+            temp.back()[1] = max(prevEnd,end);
         }
         else temp.push_back(intervals[i]);
       }
