@@ -35,6 +35,7 @@ Each day’s progress is stored as images:
 | [0056-merge-intervals](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -107,11 +108,13 @@ Each day’s progress is stored as images:
 | ------- |
 | [0031-next-permutation](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
