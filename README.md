@@ -30,6 +30,7 @@ Each day’s progress is stored as images:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@ Each day’s progress is stored as images:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -108,4 +110,8 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
