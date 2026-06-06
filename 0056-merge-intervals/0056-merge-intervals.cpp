@@ -7,7 +7,7 @@ public:
 
       int start,end,prevStart,prevEnd;
       temp.push_back(intervals[0]);
-      for(int i=0;i<n;i++) {
+      for(int i=1;i<n;i++) {
         start = intervals[i][0];
         end = intervals[i][1];
 
