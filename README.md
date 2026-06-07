@@ -38,6 +38,7 @@ Each day’s progress is stored as images:
 | [0088-merge-sorted-array](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0287-find-the-duplicate-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -98,6 +99,7 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Each day’s progress is stored as images:
 | [0031-next-permutation](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -119,4 +122,8 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
