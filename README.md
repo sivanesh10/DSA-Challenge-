@@ -39,6 +39,7 @@ Each day’s progress is stored as images:
 | [0088-merge-sorted-array](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0287-find-the-duplicate-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -46,6 +47,7 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Each day’s progress is stored as images:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Each day’s progress is stored as images:
 | [0056-merge-intervals](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -134,4 +138,8 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0050-powx-n) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
