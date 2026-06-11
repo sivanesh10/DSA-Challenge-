@@ -125,8 +125,13 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
