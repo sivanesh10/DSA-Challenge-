@@ -42,6 +42,7 @@ Each day’s progress is stored as images:
 | [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0493-reverse-pairs) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sivanesh10/DSA-Challenge-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -108,12 +109,14 @@ Each day’s progress is stored as images:
 | [0004-median-of-two-sorted-arrays](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +155,20 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
