@@ -13,6 +13,7 @@ public:
             r = dfs(i-1,j,m,n,dp);//down
         return dp[i][j] = l + r;
     }
+    ///optimal tc -> O(m * n)  sc -> O(2n)
     int tabu(int m, int n,vector<int>& prev,vector<int>& curr) {
         for(int i=0;i<m;i++) {
             for(int j=0;j<n;j++) {
