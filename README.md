@@ -28,6 +28,7 @@ Each day’s progress is stored as images:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0048-rotate-image) |
@@ -48,6 +49,7 @@ Each day’s progress is stored as images:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0229-majority-element-ii) |
