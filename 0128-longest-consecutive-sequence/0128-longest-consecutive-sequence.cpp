@@ -1,13 +1,9 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int n = nums.size();
-        map<int, int> mpp;
-        for(int i=0;i<n;i++) {
-            mpp[nums[i]] = i;
-        } 
+        unordered_set<int> mpp(nums.begin(), nums.end());
         int maxi = 0;
-        for(auto [key,value] : mpp) {
+        for(auto key : mpp) {
             if(mpp.find(key - 1) == mpp.end()) {
                 int cnt = 1;
                 int curr = key;
