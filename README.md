@@ -52,6 +52,7 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0169-majority-element) |
@@ -179,4 +180,12 @@ Each day’s progress is stored as images:
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivanesh10/DSA-Challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
